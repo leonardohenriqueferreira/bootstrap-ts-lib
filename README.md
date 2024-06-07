@@ -39,3 +39,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `touch extensions.json`
 
 `touch settings.json`
+
+`npm i typescript -D`
+
+`npm i @tsconfig/node-lts -D`
+
+`touch tsconfig.json`

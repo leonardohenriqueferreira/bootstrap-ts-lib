@@ -1,0 +1,32 @@
+{
+  "extends": "@tsconfig/node-lts/tsconfig.json",
+
+  "compilerOptions": {
+    // validations
+    "strict": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+
+    // directory configuration
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "resolveJsonModule": true,
+    "paths": {
+      "src/*": ["src/*"]
+    }
+  },
+
+  // files
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
