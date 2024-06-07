@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-ts-lib",
+  "version": "1.0.0",
+  "description": "The purpose of this repository is to provide a foundation for quickly starting new library projects in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "library",
+    "bootstrap",
+    "template",
+    "MIT"
+  ],
+  "author": {
+    "name": "Leonardo Henrique Ferreira",
+    "email": "contato@leonardohenriqueferreira.com",
+    "url": "https://leonardohenriqueferreira.com"
+  },
+  "license": "MIT"
+}
