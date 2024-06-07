@@ -2,6 +2,10 @@
 
 The purpose of this repository is to provide a foundation for quickly starting new library projects in TypeScript.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Visual Studio Code extensions
 
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
