@@ -1,0 +1,24 @@
+{
+  // settings section
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "explorer.compactFolders": false,
+
+  // code formatting section
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript.]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.requireConfig": true,
+
+  // spell checker section
+  "cSpell.ignorePaths": ["package-lock.json", "node_modules"],
+  "cSpell.words": ["esbenp", "Ferreira", "Henrique"]
+}
