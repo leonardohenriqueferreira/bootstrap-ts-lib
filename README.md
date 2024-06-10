@@ -12,6 +12,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
+## Requirements:
+
+- [x] TypeScript
+- [x] Prettier
+- [ ] ESLint
+- [ ] Jest
+- [ ] Compodoc
+- [ ] Husky
+- [ ] CommitLint
+
 ## Step-by-step creation
 
 `mkdir bootstrap-ts-lib`
