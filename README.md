@@ -12,11 +12,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
 ## Requirements:
 
 - [x] TypeScript
 - [x] Prettier
-- [ ] ESLint
+- [x] ESLint
 - [ ] Jest
 - [ ] Compodoc
 - [ ] Husky
@@ -55,3 +57,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `npm i @tsconfig/node-lts -D`
 
 `touch tsconfig.json`
+
+`npm i eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin -D`
+
+`touch .eslintrc.json`
+
+`touch .eslintignore`
+
+`npm i prettier eslint-config-prettier eslint-plugin-prettier -D`
+
+`npm i @types/node -D`

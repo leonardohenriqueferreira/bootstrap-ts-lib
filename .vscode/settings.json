@@ -18,7 +18,13 @@
   },
   "prettier.requireConfig": true,
 
+  // lint section
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+  "eslint.validate": ["javascript", "typescript"],
+
   // spell checker section
   "cSpell.ignorePaths": ["package-lock.json", "node_modules", "dist"],
-  "cSpell.words": ["Compodoc", "esbenp", "Ferreira", "Henrique"]
+  "cSpell.words": ["Compodoc", "dbaeumer", "esbenp", "Ferreira", "Henrique"]
 }
