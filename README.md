@@ -20,9 +20,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Prettier
 - [x] ESLint
 - [x] Jest
-- [ ] Compodoc
+- [x] Compodoc
 - [ ] Husky
 - [ ] CommitLint
+
+### To Do List
+
+- [x] Add and configure TypeScript
+- [x] Add and configure Prettier
+- [x] Add and configure ESLint
+- [x] Add and configure Compodoc
+- [ ] Ignore configuration files in compodoc.
+- [ ] Add and configure Husky
+- [ ] Add and configure CommitLint
 
 ## Step-by-step creation
 
@@ -79,3 +89,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `touch jest.config.ts`
 
 `npm i ts-node -D`
+
+`npm i @compodoc/compodoc -D`
