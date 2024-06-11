@@ -26,5 +26,12 @@
 
   // spell checker section
   "cSpell.ignorePaths": ["package-lock.json", "node_modules", "dist"],
-  "cSpell.words": ["Compodoc", "dbaeumer", "esbenp", "Ferreira", "Henrique"]
+  "cSpell.words": [
+    "Compodoc",
+    "dbaeumer",
+    "esbenp",
+    "Ferreira",
+    "Henrique",
+    "orta"
+  ]
 }

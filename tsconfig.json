@@ -27,6 +27,6 @@
   },
 
   // files
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "test/**/*", "jest.config.ts"],
   "exclude": ["node_modules", "dist"]
 }

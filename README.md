@@ -14,12 +14,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## Requirements:
+## Requirements
 
 - [x] TypeScript
 - [x] Prettier
 - [x] ESLint
-- [ ] Jest
+- [x] Jest
 - [ ] Compodoc
 - [ ] Husky
 - [ ] CommitLint
@@ -67,3 +67,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `npm i prettier eslint-config-prettier eslint-plugin-prettier -D`
 
 `npm i @types/node -D`
+
+`npm i jest -D`
+
+`npm i @types/jest -D`
+
+`npm i ts-jest -D`
+
+`npm i eslint-plugin-jest -D`
+
+`touch jest.config.ts`
+
+`npm i ts-node -D`
