@@ -11,7 +11,7 @@
     "lint": "eslint 'src/**/*.{js,ts}'",
     "lint:fix": "eslint 'src/**/*.{js,ts}' --fix",
     "format": "prettier --write 'src/**/*.{ts,tsx,js,jsx,json,css,scss,md}'",
-    "doc": "npx compodoc -p tsconfig.json -d docs"
+    "doc": "npx compodoc -c compodoc.json"
   },
   "keywords": [
     "typescript",

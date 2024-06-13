@@ -34,7 +34,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Add and configure Prettier
 - [x] Add and configure ESLint
 - [x] Add and configure Compodoc
-- [ ] Ignore configuration files in compodoc.
+- [x] Ignore configuration files in compodoc
 - [ ] Add and configure Husky
 - [ ] Add and configure CommitLint
 
@@ -95,3 +95,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `npm i ts-node -D`
 
 `npm i @compodoc/compodoc -D`
+
+`touch compodoc.json`

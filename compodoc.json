@@ -1,0 +1,5 @@
+{
+  "tsconfig": "tsconfig.json",
+  "output": "docs",
+  "exclude": ["**/*.spec.ts", "**/tests/**", "jest.config.ts"]
+}
