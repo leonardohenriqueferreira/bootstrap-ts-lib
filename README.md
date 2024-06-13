@@ -14,6 +14,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
 ## Requirements
 
 - [x] TypeScript
