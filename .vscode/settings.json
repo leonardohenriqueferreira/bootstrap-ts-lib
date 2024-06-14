@@ -27,6 +27,7 @@
   // spell checker section
   "cSpell.ignorePaths": ["package-lock.json", "node_modules", "dist"],
   "cSpell.words": [
+    "commitlint",
     "Compodoc",
     "dbaeumer",
     "esbenp",

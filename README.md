@@ -35,8 +35,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Add and configure ESLint
 - [x] Add and configure Compodoc
 - [x] Ignore configuration files in compodoc
-- [ ] Add and configure Husky
-- [ ] Add and configure CommitLint
+- [x] Add and configure Husky
+- [x] Add and configure CommitLint
 
 ## Step-by-step creation
 
@@ -97,3 +97,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `npm i @compodoc/compodoc -D`
 
 `touch compodoc.json`
+
+`npm i husky -D`
+
+`npx husky install`
+
+`npm i @commitlint/{config-conventional,cli} -D`
+
+`touch commitlint.config.js`
+
+`npm i lint-staged -D`
