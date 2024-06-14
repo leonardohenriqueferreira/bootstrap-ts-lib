@@ -25,8 +25,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] ESLint
 - [x] Jest
 - [x] Compodoc
-- [ ] Husky
-- [ ] CommitLint
+- [x] Husky
+- [x] CommitLint
 
 ### To Do List
 
