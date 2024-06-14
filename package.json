@@ -49,6 +49,6 @@
     "typescript": "^5.4.5"
   },
   "lint-staged": {
-    "**/*.{js,ts}": "npm lint:fix"
+    "**/*.{js,ts}": "eslint 'src/**/*.{js,ts}' --fix"
   }
 }
