@@ -100,8 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 `npm i husky -D`
 
-`npx husky install`
-
 `npm i @commitlint/{config-conventional,cli} -D`
 
 `touch commitlint.config.js`
