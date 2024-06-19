@@ -1,0 +1,15 @@
+{
+  "name": "Bootstrap TS Lib",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "orta.vscode-jest",
+        "gruntfuggly.todo-tree"
+      ]
+    }
+  }
+}

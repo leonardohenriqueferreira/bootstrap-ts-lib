@@ -113,3 +113,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 `echo 'npx --no-install commitlint --edit "$1"' > .husky/commit-msg`
 
 `echo 'npx --no-install lint-staged && npm test' > .husky/pre-commit`
+
+`mkdir .devcontainer`
+
+`cd .devcontainer`
+
+`touch devcontainer.json`
