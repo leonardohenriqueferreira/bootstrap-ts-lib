@@ -27,6 +27,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Compodoc
 - [x] Husky
 - [x] CommitLint
+- [ ] DevContainer
 
 ### To Do List
 
@@ -37,6 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [x] Ignore configuration files in compodoc
 - [x] Add and configure Husky
 - [x] Add and configure CommitLint
+- [ ] Add and configure DevContainer
 
 ## Step-by-step creation
 
